@@ -1,0 +1,12 @@
+diff --git a/src/kpeoplevcard.cpp b/src/kpeoplevcard.cpp
+index 3c0ecbf..692e25f 100644
+--- a/src/kpeoplevcard.cpp
++++ b/src/kpeoplevcard.cpp
+@@ -21,6 +21,7 @@
+ #include <QDebug>
+ #include <QDir>
+ #include <QStandardPaths>
++#include <QImage>
+ #include <KContacts/VCardConverter>
+ #include <KContacts/Picture>
+ #include <KPeopleBackend/BasePersonsDataSource>
