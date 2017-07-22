@@ -1,3 +1,9 @@
+kpeoplevcard (0.0+git20170722-1) UNRELEASED; urgency=medium
+
+  * New snapshot
+
+ -- JBBgameich <jbb.mail@gmx.de>  Sat, 22 Jul 2017 17:02:30 +0200
+
 kpeoplevcard (0.0+git20150716) vivid; urgency=medium
 
   * Initial package
